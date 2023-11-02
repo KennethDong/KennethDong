@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2022 - To: 30 October 2023
+From: 21 March 2022 - To: 31 October 2023
 
-Total Time: 361 hrs 32 mins
+Total Time: 361 hrs 34 mins
 
 C++              77 hrs 42 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
 HTML             47 hrs 8 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-C                45 hrs 10 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-JavaScript       40 hrs 37 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+C                45 hrs 10 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+JavaScript       40 hrs 37 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
 PHP              20 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 Text             19 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 Java             18 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
